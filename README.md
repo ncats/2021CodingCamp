@@ -16,7 +16,7 @@ The camp will be capped to 20 participants
 
 ### Teaching Assistants:
 Each participant will be choosing a teaching assistant (TA) to work with for the entire 8 weeks. There are 8 Teaching Assistants for this camp:
-1. Nathan Hotalling (VSCode)
+1. Nathan Hotalling (Python/VSCode)
 2. Shawn Li (Python)
 3. Ewy Mathé (R/Rstudio)
 4. Jorge Neyra (Python, JavaScript/HTML)
