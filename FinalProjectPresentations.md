@@ -16,3 +16,6 @@ Training BioBERT for Multi-Type Named Entity Recognition
 
 Ainslie Tisdale
 Data Visualizations in R
+
+Wenyu Zeng
+Visualizing Data Distributions and Implementing Naive Bayes Classifier in Python
